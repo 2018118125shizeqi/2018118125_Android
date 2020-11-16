@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lum.mydroadcast">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!--采用静态注册的方法，只要APP开启，就能够监听广播-->
+        <receiver android:name=".BroadCastReceive">   <!--注明接受监听广播的文件-->
+            <intent-filter>
+                <action android:name="myBroadCast"></action>  <!--注明监听的广播的动作,可以添加多个动作-->
+
+            </intent-filter>
+        </receiver>
+
+
+    </application>
+
+</manifest>
