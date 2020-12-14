@@ -6,7 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c2b8cc5-58a8-4d16-8e7d-90a3192481f9" name="Default Changelist" comment="" />
+    <list default="true" id="4cd8bbbc-feae-4ddd-b498-9922d2373888" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,43 +21,18 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <task path="$PROJECT_DIR$">
-          <activation />
-        </task>
-        <task path="$PROJECT_DIR$/app">
-          <activation />
-        </task>
-        <projects_view>
-          <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Homework9" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Homework9" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Homework9" type="f1a62948:ProjectNode" />
-                <item name="app" type="2d1252cf:ModuleNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Homework9" type="f1a62948:ProjectNode" />
-                <item name="app" type="2d1252cf:ModuleNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-            </expand>
-            <select />
-          </tree_state>
-        </projects_view>
+        <projects_view />
       </state>
     </system>
   </component>
-  <component name="ProjectId" id="1l9RcZICuy7KiK87EGQGesCLKAZ" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kMVH8uOwnNTnPPCQtrDpaNn7YT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -66,7 +41,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.lum.mydroadcast" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\yingyongkaifa\app\src\main" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -76,7 +59,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -133,18 +116,26 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1c2b8cc5-58a8-4d16-8e7d-90a3192481f9" name="Default Changelist" comment="" />
-      <created>1607007400352</created>
+      <changelist id="4cd8bbbc-feae-4ddd-b498-9922d2373888" name="Default Changelist" comment="" />
+      <created>1605510356777</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1607007400352</updated>
+      <updated>1605510356777</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="603" y="246" key="AndroidCreateXmlResourceDialog" timestamp="1607008293611">
+    <state x="377" y="171" key="FileChooserDialogImpl" timestamp="1605517105938">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="603" y="246" key="AndroidCreateXmlResourceDialog/0.0.1536.824@0.0.1536.824" timestamp="1607008293611" />
+    <state x="377" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605517105938" />
+    <state x="630" y="189" key="chooseDestDirectoryDialog" timestamp="1605199141567">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="630" y="189" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1605199141567" />
+    <state x="158" y="234" key="com.intellij.ide.util.TipDialog" timestamp="1605517071508">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="158" y="234" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1605517071508" />
   </component>
 </project>
