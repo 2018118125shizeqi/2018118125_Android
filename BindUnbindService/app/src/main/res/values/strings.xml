@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">绑定与解绑服务</string>
+    <string name="bind_service">绑定服务</string>
+    <string name="unbind_service">解绑服务</string>
+</resources>
