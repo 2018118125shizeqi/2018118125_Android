@@ -15,7 +15,15 @@ import org.achartengine.model.CategorySeries;
 import org.achartengine.renderer.DefaultRenderer;
 import org.achartengine.renderer.SimpleSeriesRenderer;
 
-
+/**
+ * @programName: TwoFragment.java
+ * @programFunction: Display of category reports
+ * @createDate: 2018/09/19
+ * @author: AnneHan
+ * @version:
+ * xx.   yyyy/mm/dd   ver    author    comments
+ * 01.   2018/09/19   1.00   AnneHan   New Create
+ */
 public class TwoFragment extends Fragment {
 
     double[] values = {500.00, 800.00, 1000.00, 900.00};
