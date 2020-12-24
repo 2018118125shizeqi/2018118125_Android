@@ -23,11 +23,11 @@ import java.util.List;
 /**
  * @programName: CountActivity.java
  * @programFunction: Statistical revenue and expenditure
- * @createDate: 2018/09/19
- * @author: AnneHan
+ * @createDate: 2020/12/19
+ * @author: shizeqi
  * @version:
  * xx.   yyyy/mm/dd   ver    author    comments
- * 01.   2018/09/19   1.00   AnneHan   New Create
+ * 01.   2020/12/19   1.00   AnneHan   New Create
  */
 public class CountActivity extends AppCompatActivity implements View.OnClickListener {
     private TextView tv_year;

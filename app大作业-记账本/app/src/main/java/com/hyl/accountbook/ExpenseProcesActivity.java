@@ -35,15 +35,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
 
-/**
- * @programName: ExpenseProcesActivity.java
- * @programFunction: Add an income and expense record
- * @createDate: 2018/09/19
- * @author: AnneHan
- * @version:
- * xx.   yyyy/mm/dd   ver    author    comments
- * 01.   2018/09/19   1.00   AnneHan   New Create
- */
+
 public class ExpenseProcesActivity extends AppCompatActivity {
 
     private int type = 0;//0:income   1:payout

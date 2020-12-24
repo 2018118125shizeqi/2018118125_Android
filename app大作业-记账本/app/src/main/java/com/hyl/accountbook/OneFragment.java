@@ -25,15 +25,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @programName: OneFragment.java
- * @programFunction: Recording details of income and expenditure
- * @createDate: 2018/09/19
- * @author: AnneHan
- * @version:
- * xx.   yyyy/mm/dd   ver    author    comments
- * 01.   2018/09/19   1.00   AnneHan   New Create
- */
+
 public class OneFragment extends Fragment {
 
     List<Map<String, Object>> listitem = new ArrayList<Map<String, Object>>(); //存储数据的数组列表

@@ -6,15 +6,7 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
-/**
- * @programName: KeyPad.java
- * @programFunction:
- * @createDate: 2018/09/19
- * @author: AnneHan
- * @version:
- * xx.   yyyy/mm/dd   ver    author    comments
- * 01.   2018/09/19   1.00   AnneHan   New Create
- */
+
 public class KeyPad extends AppCompatActivity implements OnClickListener {
     private Button btnDisplay = null;
 

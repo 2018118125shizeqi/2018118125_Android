@@ -16,15 +16,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-/**
- * @programName: LoginActivity.java
- * @programFunction: the login page
- * @createDate: 2018/09/19
- * @author: AnneHan
- * @version:
- * xx.   yyyy/mm/dd   ver    author    comments
- * 01.   2018/09/19   1.00   AnneHan   New Create
- */
+
 public class LoginActivity extends AppCompatActivity {
 
     private EditText editPhone;

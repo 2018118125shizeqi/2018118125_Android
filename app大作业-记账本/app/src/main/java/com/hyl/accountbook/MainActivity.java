@@ -9,15 +9,7 @@ import android.view.KeyEvent;
 import android.view.View;
 import android.widget.Toast;
 
-/**
- * @programName: MainActivity.java
- * @programFunction: the home page
- * @createDate: 2018/09/19
- * @author: AnneHan
- * @version:
- * xx.   yyyy/mm/dd   ver    author    comments
- * 01.   2018/09/19   1.00   AnneHan   New Create
- */
+
 public class MainActivity extends AppCompatActivity {
 
     //第一次点击事件发生的时间
@@ -132,7 +124,7 @@ public class MainActivity extends AppCompatActivity {
         if (keyCode == KeyEvent.KEYCODE_BACK) {
             if ((System.currentTimeMillis() - mExitTime) > 2000) {
                 Object mHelperUtils;
-                Toast.makeText(this, "再按一次退出金金记较", Toast.LENGTH_SHORT).show();
+                Toast.makeText(this, "再按一次退出记账本", Toast.LENGTH_SHORT).show();
                 //System.currentTimeMillis()系统当前时间
                 mExitTime = System.currentTimeMillis();
             } else {
