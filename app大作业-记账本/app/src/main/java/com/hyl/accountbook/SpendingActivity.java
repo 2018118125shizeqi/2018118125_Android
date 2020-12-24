@@ -23,15 +23,7 @@ import android.widget.Toast;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @programName: SpendingActivity.java
- * @programFunction: Recording of income and expenditure
- * @createDate: 2018/09/19
- * @author: AnneHan
- * @version:
- * xx.   yyyy/mm/dd   ver    author    comments
- * 01.   2018/09/19   1.00   AnneHan   New Create
- */
+
 public class SpendingActivity extends AppCompatActivity implements View.OnClickListener {
     //private TextView title;
     private TextView tv_year;
